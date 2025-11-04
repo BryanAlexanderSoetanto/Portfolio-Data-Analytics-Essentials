@@ -54,6 +54,3 @@ Berdasarkan data & analisis sebelumnya, berikut strategi bisnis yang bisa ditera
 > 💬 *Kesimpulan akhir:* Model kit ini bukan hanya sukses secara penjualan, tapi juga membangun reputasi kuat di kalangan kolektor — menjadikannya fondasi ideal untuk memperluas lini produk.
 
 ---
-
-Apakah kamu mau saya buatkan versi yang bisa langsung dipasang di README GitHub (dengan emoji & table style yang lebih minimalis untuk markdown renderer GitHub)?
-
