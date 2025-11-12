@@ -36,7 +36,7 @@ Namun, ditemukan adanya **outlier** pada beberapa kolom numerik. Outlier ini dap
 * **Outlier** adalah data yang berada di luar rentang:
 
 [
-[Q1 - 1.5 \times IQR,\ Q3 + 1.5 \times IQR]
+[Q1 - 1.5 x IQR,\ Q3 + 1.5 x IQR]
 ]
 
 Metode ini sangat berguna untuk mendeteksi nilai ekstrem yang tidak wajar tanpa mengasumsikan distribusi tertentu.
