@@ -28,7 +28,7 @@ Namun, ditemukan adanya **outlier** pada beberapa kolom numerik. Outlier ini dap
 **IQR** adalah metode statistik untuk mengukur sebaran data di antara kuartil pertama (Q1) dan kuartil ketiga (Q3).
 
 [
-\text{IQR} = Q3 - Q1
+**IQR** = Q3 - Q1
 ]
 
 * **Q1 (Kuartil 1):** nilai di bawah 25% data
